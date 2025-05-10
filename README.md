@@ -2,14 +2,14 @@
 
 🎯 Junior Pentester | MSc Cybersecurity Student | 42 School  
 🔍 Focus: Web App Security, Ethical Hacking, Bug Bounties  
-📍 Based in Europe, moving to Argentina in 2025 🌎
+📍 Based in Europe 🌎
 
 ---
 
 ### 🛠️ Tools & Tech I use
 - Kali Linux, Burp Suite, Metasploit
 - Nmap, Hydra, Gobuster, John, LinPEAS, WinPEAS
-- TryHackMe & Hack The Box
+- TryHackMe
 - Git, Python, Bash
 
 ---
@@ -24,6 +24,6 @@
 ### 📫 Let’s connect
 - [LinkedIn](https://linkedin.com/in/patrykkieszek)
 - [Medium](https://medium.com/@cybernomad42)
-
+- [TryHackMe](https://tryhackme.com/p/pkieszek)
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkieszek&show_icons=true&theme=dark)
