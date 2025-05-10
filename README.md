@@ -51,7 +51,8 @@ With a background in cybersecurity studies (MSc, University of Warsaw) and hands
 
 ## 🧠 Learning & Certifications
 
-- ✅ eJPTv2 (82%) – INE / OffSec  
+- ✅ eJPTv2 (82%) – INE / OffSec
+  <img src="exam results.png" alt="exam results" width="300"/>  
 - 🧪 TryHackMe: Top 5%, Junior Penetration Tester, Web Fundamentals, Cybersecurity 101  
   <img src="THM.png" alt="TryHackMe Top 5%" width="300"/>
 - 🎓 MSc in Cybersecurity – University of Warsaw  
