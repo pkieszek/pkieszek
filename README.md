@@ -26,4 +26,4 @@
 - [Medium](https://medium.com/@cybernomad42)
 - [TryHackMe](https://tryhackme.com/p/pkieszek)
 ---
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkieszek&show_icons=true&theme=dark)
