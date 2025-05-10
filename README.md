@@ -31,7 +31,7 @@ With a background in cybersecurity studies (MSc, University of Warsaw) and hands
 - [📄 Nmap Cheatsheet](https://github.com/pkieszek/nmap-cheatsheet)  
   Field-tested recon guide based on INE & TryHackMe methodologies.
 
-- [🧪 TryHackMe Writeups](https://github.com/pkieszek/tryhackme-writeups) *(soon)*  
+- [🧪 TryHackMe Writeups](https://github.com/pkieszek/tryhackme-writeups)  
   Personal walkthroughs and CTF-style solutions from my favorite rooms.
 
 ---
