@@ -24,4 +24,6 @@
 ### 📫 Let’s connect
 - [LinkedIn](https://linkedin.com/in/patrykkieszek)
 - [Medium](https://medium.com/@cybernomad42)
+
+---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkieszek&show_icons=true&theme=dark)
