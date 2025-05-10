@@ -3,7 +3,9 @@
 **Junior Pentester | Cybersecurity Consultant | 42 Student**
 
 🎯 I help businesses discover and fix vulnerabilities before attackers do.  
+
 📍 Based in Europe | Open to remote & relocation 
+
 🧠 Self-taught. eJPT certified. Passionate about offensive security.
 
 ---
