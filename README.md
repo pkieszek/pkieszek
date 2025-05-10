@@ -51,12 +51,12 @@ With a background in cybersecurity studies (MSc, University of Warsaw) and hands
 
 ## 🧠 Learning & Certifications
 
-- ✅ eJPTv2 (82%) – INE / OffSec
-- 🧪 TryHackMe: Top 5%, Junior Penetration Tester, Web Fundamentals, Cybersecurity 101
-- 🎓 MSc in Cybersecurity – University of Warsaw
-- 🎓 BSc in Sociology – Sorbonne (Paris I)
+- ✅ eJPTv2 (82%) – INE / OffSec  
+- 🧪 TryHackMe: Top 5%, Junior Penetration Tester, Web Fundamentals, Cybersecurity 101  
+  <img src="THM.png" alt="TryHackMe Top 5%" width="300"/>
+- 🎓 MSc in Cybersecurity – University of Warsaw  
+- 🎓 BSc in Sociology – Sorbonne (Paris I)  
 - 🎯 Currently preparing for CompTIA Security+
-
 ---
 
 ## 📫 Connect with Me
