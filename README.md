@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Patryk Kieszek
 
-<!--
-**pkieszek/pkieszek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Pentester | MSc Cybersecurity Student | 42 School  
+🔍 Focus: Web App Security, Ethical Hacking, Bug Bounties  
+📍 Based in Europe, moving to Argentina in 2025 🌎
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Tech I use
+- Kali Linux, Burp Suite, Metasploit
+- Nmap, Hydra, Gobuster, John, LinPEAS, WinPEAS
+- TryHackMe & Hack The Box
+- Git, Python, Bash
+
+---
+
+### 📌 Featured Projects
+- 🔐 `eJPT-Writeup`: My eJPT v2 exam notes and methodology
+- ⚙️ `Nmap-Cheatsheet`: My go-to recon commands
+- 📁 `WebApp-Audit-Templates`: Templates for freelance pentesting audits
+
+---
+
+### 📫 Let’s connect
+- [LinkedIn](https://linkedin.com/in/patrykkieszek)
+- [Medium](https://medium.com/@cybernomad42)
