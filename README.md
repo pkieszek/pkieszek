@@ -68,7 +68,7 @@ With a background in cybersecurity studies (MSc, University of Warsaw) and hands
 
 - [LinkedIn](https://www.linkedin.com/in/patrykkieszek/)
 - [TryHackMe](https://tryhackme.com/p/pkieszek)
-- [Medium](https://medium.com/@cybernomad42) *(write-ups coming soon!)*
+- [Medium](https://medium.com/@cybernomad42)
 - [HackerOne VDP](https://hackerone.com/) *(active researcher)*
 
 ---
