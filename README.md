@@ -29,7 +29,7 @@ With a background in cybersecurity studies (MSc, University of Warsaw) and hands
   Interactive cyberpunk-style web portfolio showcasing my work and hacking mindset.
 
 - [🔎 WebApp-Pentest-Report](https://github.com/pkieszek/WebApp-Pentest-Report)  
-  Real-world audit delivered to a SaaS client (CargoAssistant) as part of SOC2/ISO27001 preparation.
+  Real-world audit delivered to a SaaS client as part of SOC2/ISO27001 preparation.
 
 - [🧪 TryHackMe Writeups](https://github.com/pkieszek/tryhackme-writeups)  
   Personal walkthroughs and CTF-style solutions from my favorite rooms.
