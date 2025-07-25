@@ -46,6 +46,7 @@ I specialize in **Web & API Pentesting**, with hands-on experience in:
   <img src="exam results.png" alt="eJPTv2 result" width="300"/>
 
 - ✅ **ICCA (95%)** – INE Certified Cloud Auditor
+  
   <img src="https://github.com/user-attachments/assets/171f739e-74b2-4d63-8150-9313e7b36380" alt="eJPTv2 result" width="300"/>
   <img src="https://github.com/user-attachments/assets/a9a575b4-89d1-49f3-a10c-8d5692cb9a2e" alt="ICCA result" width="300"/>
 
