@@ -1,4 +1,4 @@
-# 🛡️ Patryk Kieszek — Web & API Security Specialist
+# 🛡️ Patryk Kieszek — Web & API Pentester
 
 **Helping developers build secure systems in an insecure world.**  
 📍 Based in Europe | Available remotely
