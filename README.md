@@ -1,45 +1,73 @@
-# 🛡️ Patryk Kieszek
+# 🛡️ Patryk Kieszek — Web & API Security Specialist
 
-**Junior Pentester | Cybersecurity Consultant | 42 Student**
-
-🎯 I help businesses discover and fix vulnerabilities before attackers do.  
-
-📍 Based in Europe | Open to remote & relocation 
-
-🧠 Self-taught. eJPT certified. Passionate about offensive security.
+**Helping developers build secure systems in an insecure world.**  
+📍 Based in Europe | Available remotely
 
 ---
 
-## 💼 About Me
+## 🔥 Why I Do This
 
-I'm a self-taught cybersecurity consultant currently focused on web application security, penetration testing, and bug bounty hunting.  
-With a background in cybersecurity studies (MSc, University of Warsaw) and hands-on training from 42 School Warsaw, I specialize in identifying real-world vulnerabilities and delivering actionable remediation strategies.
+Technology is moving fast — but so are threats.
 
-🔐 **Specialties:**  
-- Web & API Pentesting (Burp Suite, ZAP, SQLmap, IDOR, XSS)  
-- Network Scanning & Recon (Nmap, Hydra, Wireshark)  
-- Red Team Tactics (Privilege Escalation, Exploits, Metasploit)  
-- Security Audits (SOC 2, ISO 27001, GDPR readiness)
+My mission is to protect meaningful digital products before someone else breaks them.  
+I work with creators and builders, helping them challenge assumptions and secure the parts of their systems that are often overlooked.  
+To me, **offensive security is not about chaos — it's about clarity**.
+
+I don’t just look for what’s broken. I question what was assumed to be safe.
 
 ---
 
-## 📌 Featured Projects
+## 💣 What I Do
 
-- [🌐 Matrix-Themed Portfolio](https://pkieszek.github.io/portfolio/)  
-  Interactive cyberpunk-style web portfolio showcasing my work and hacking mindset.
+I specialize in **Web & API Pentesting**, with hands-on experience in:
+- Application-layer vulnerabilities: XSS, SQLi, RCE, authentication bypass  
+- API testing: BOLA, IDOR, Broken Auth, insecure tokens  
+- Cloud misconfigurations: exposed S3 buckets, metadata abuse, IAM flaws  
+- Logic flaws and chained vulnerabilities  
+- Manual recon, chaining attack vectors, and tailored exploitation  
+- Clean, actionable reports that developers actually use
+
+---
+
+## 🧰 Tools I Work With
+
+- Nmap – for precise scanning, service detection, custom NSE scripts  
+- ffuf – for fast and recursive directory and parameter fuzzing  
+- Burp Suite – manual request analysis, interception, and chaining  
+- SQL techniques – error-based, boolean-based, time-based injections and bypasses  
+- Netcat, curl, dig, whois – essential tools for live network and service inspection  
+- Wireshark – for low-level packet analysis when recon requires depth
+
+---
+
+## 🎓 Certifications & Learning
+
+- ✅ **eJPTv2 (82%)** – INE / OffSec  
+  <img src="exam results.png" alt="eJPTv2 result" width="300"/>
+
+- 🎯 **Currently Preparing:**  
+  - **OSCP** – Offensive Security  
+  - **CPTS** – Hack The Box
+
+- 🏫 MSc in Cybersecurity – University of Warsaw  
+- 🎓 BSc in Sociology – Sorbonne (Paris I)
+
+---
+
+## 📂 Featured Projects
 
 - [🔎 WebApp-Pentest-Report](https://github.com/pkieszek/WebApp-Pentest-Report)  
-  Real-world audit delivered to a SaaS client as part of SOC2/ISO27001 preparation.
+  A real-world security audit for a SaaS platform, focused on SOC2/ISO27001 compliance.
 
-- [🧪 TryHackMe Writeups](https://github.com/pkieszek/tryhackme-writeups)  
-  Personal walkthroughs and CTF-style solutions from my favorite rooms.
+- [🌐 Matrix-Themed Portfolio](https://pkieszek.github.io/portfolio/)  
+  My cyberpunk-inspired site built to showcase skills, mindset, and code.
 
 - [📄 Nmap Cheatsheet](https://github.com/pkieszek/nmap-cheatsheet)  
-  Field-tested recon guide based on INE & TryHackMe methodologies.
+  Recon and enumeration techniques tuned for practical web assessments.
 
 ---
 
-## 🌟 Testimonials
+## 🌟 What People Say
 
 > *"Patryk performed external penetration tests and delivered a detailed, well-structured report with clear explanations and actionable recommendations. We were able to fix multiple vulnerabilities and significantly strengthen our security posture."*  
 > — **Karol Obrebski**, CEO, CargoAssistant
@@ -47,30 +75,17 @@ With a background in cybersecurity studies (MSc, University of Warsaw) and hands
 > *"Patryk demonstrates an exceptional eagerness to learn and develop professionally. His positive attitude and enthusiasm make him an ideal candidate for any junior cybersecurity or DevOps position."*  
 > — **Alexander Sadowski**, Senior Engineer, SoftServe
 
-> *"Zamiast standardowych zadań w 42 Warsaw, Patryk zdobył roota w maszynie. Jeśli szukasz pentestera, który nie tylko znajduje luki, ale też rozumie ich konsekwencje – polecam go z pełnym przekonaniem."*  
+> *"Instead of doing standard 42 school tasks, Patryk rooted a machine. If you're looking for a pentester who not only finds vulnerabilities but truly understands their impact — I strongly recommend him."*  
 > — **Bartosz P. Krok**, Cybersecurity Engineer in Training
 
 ---
 
-## 🧠 Learning & Certifications
+## 👣 My Hacker Journey
 
-- ✅ eJPTv2 (82%) – INE / OffSec
-
-  <img src="exam results.png" alt="exam results" width="300"/>  
-- 🧪 TryHackMe: Top 5%, Junior Penetration Tester, Web Fundamentals, Cybersecurity 101  
-  <img src="THM.png" alt="TryHackMe Top 5%" width="300"/>
-- 🎓 MSc in Cybersecurity – University of Warsaw  
-- 🎓 BSc in Sociology – Sorbonne (Paris I)  
-- 🎯 Currently preparing for CompTIA Security+
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/patrykkieszek/)
-- [TryHackMe](https://tryhackme.com/p/pkieszek)
-- [Medium](https://medium.com/@cybernomad42)
-- [HackerOne VDP](https://hackerone.com/) *(active researcher)*
+- 🔐 [Hack The Box – pkieszek](https://app.hackthebox.com/profile/pkieszek)  
+- 🐞 [HackerOne – researcher](https://hackerone.com/) *(Private program testing)*  
+- ✍️ [Medium – @cybernomad42](https://medium.com/@cybernomad42)
 
 ---
 
-> *“Red teaming is not just a skill for me — it’s a mindset and a passion.”*
+> *"I don’t hack for noise. I hack to understand what others overlook."*
