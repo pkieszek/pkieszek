@@ -42,19 +42,24 @@ I specialize in **Web & API Pentesting**, with hands-on experience in:
 
 ## 🎓 Certifications & Learning
 
-- ✅ **eJPTv2 (82%)** – INE / OffSec  
-  [<img src="https://github.com/user-attachments/assets/171f739e-74b2-4d63-8150-9313e7b36380" alt="eJPTv2 Certificate" width="300"/>](https://github.com/user-attachments/files/21426461/Certificate.EJPT.pdf)
+- ✅ **eJPTv2 (82%)** – INE / OffSec
 
-- ✅ **ICCA (95%)** – INE Certified Cloud Auditor  
+  <img width="300" alt="Screenshot 2025-07-25 at 09 28 19" src="https://github.com/user-attachments/assets/b7e3b2f3-156c-418d-af55-98e650c708fb" />
+  <img src="exam results.png" alt="eJPTv2 result" width="300"/>
+
+- ✅ **ICCA (95%)** – INE Certified Cloud Auditor
+  
+  <img src="https://github.com/user-attachments/assets/171f739e-74b2-4d63-8150-9313e7b36380" alt="eJPTv2 result" width="300"/>
   <img src="https://github.com/user-attachments/assets/a9a575b4-89d1-49f3-a10c-8d5692cb9a2e" alt="ICCA result" width="300"/>
 
 - 🎯 **Currently Preparing:**  
   - **OSCP** – Offensive Security  
   - **CPTS** – Hack The Box
 
-- 🏫 MSc in Cybersecurity – University of Warsaw  
-- 🧠 Full-time Technical Training – 42 School Warsaw  
+- 🏫 MSc in Cybersecurity – University of Warsaw
+- 🧠 Full-time Technical Training – 42 School Warsaw   
 - 🎓 BSc in Sociology – Sorbonne (Paris I)
+
 ---
 
 ## 📂 Featured Projects
