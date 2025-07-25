@@ -45,6 +45,9 @@ I specialize in **Web & API Pentesting**, with hands-on experience in:
 - ✅ **eJPTv2 (82%)** – INE / OffSec  
   <img src="exam results.png" alt="eJPTv2 result" width="300"/>
 
+- ✅ **ICCA (95%)** – INE Certified Cloud Auditor  
+<img src="https://github.com/user-attachments/assets/a9a575b4-89d1-49f3-a10c-8d5692cb9a2e" alt="ICCA result" width="300"/>
+
 - 🎯 **Currently Preparing:**  
   - **OSCP** – Offensive Security  
   - **CPTS** – Hack The Box
