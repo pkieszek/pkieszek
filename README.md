@@ -1,4 +1,4 @@
-# 🛡️ Patryk Kieszek — Web & API Pentester
+# 🛡️ Patryk Kieszek — Pentester
 
 **Helping developers build secure systems in an insecure world.**  
 📍 Based in Europe | Available remotely
